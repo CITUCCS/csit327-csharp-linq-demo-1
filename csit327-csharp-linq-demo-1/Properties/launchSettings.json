@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "csit327-csharp-linq-demo-1": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
